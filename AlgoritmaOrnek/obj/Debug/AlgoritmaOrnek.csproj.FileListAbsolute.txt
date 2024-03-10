@@ -1,0 +1,7 @@
+D:\Proje\C#\AlgoritmaOrnek\AlgoritmaOrnek\obj\Debug\AlgoritmaOrnek.csproj.AssemblyReference.cache
+D:\Proje\C#\AlgoritmaOrnek\AlgoritmaOrnek\obj\Debug\AlgoritmaOrnek.csproj.CoreCompileInputs.cache
+D:\Proje\C#\AlgoritmaOrnek\AlgoritmaOrnek\bin\Debug\AlgoritmaOrnek.exe.config
+D:\Proje\C#\AlgoritmaOrnek\AlgoritmaOrnek\bin\Debug\AlgoritmaOrnek.exe
+D:\Proje\C#\AlgoritmaOrnek\AlgoritmaOrnek\bin\Debug\AlgoritmaOrnek.pdb
+D:\Proje\C#\AlgoritmaOrnek\AlgoritmaOrnek\obj\Debug\AlgoritmaOrnek.exe
+D:\Proje\C#\AlgoritmaOrnek\AlgoritmaOrnek\obj\Debug\AlgoritmaOrnek.pdb
